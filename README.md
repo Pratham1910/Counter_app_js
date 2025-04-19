@@ -32,9 +32,6 @@ A simple Counter App that allows users to increment and decrement a counter valu
 - Updates the counter dynamically using `innerHTML`.
 - Prevents the counter from going negative.
 
-## Installation & Usage
-1. Clone or download the repository.
-2. Open `index.html` in a browser.
-3. Click the `+` and `-` buttons to test the counter.
+
 
 
